@@ -1,0 +1,22 @@
+{
+    "details":{
+        "name":"Shaik Chand Basha",
+        "roll_no": "17121a05k3",
+        "img":"img/img.png"
+    },
+
+    "qualification":{
+        "SCHOOLING":{
+            "name": "Sri Lakshmi High Schoool"
+        },
+        "COLLEGE":{
+            "name": "Sri Chaitanya Intermediate College"
+        },
+        "B_TECH":{
+            "name": "Sree Vidyanikethan Engineering College"
+        }
+
+    }
+
+
+}
